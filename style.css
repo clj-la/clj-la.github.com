@@ -26,6 +26,10 @@ a:hover {
    margin: 0 auto;
 }
 
+#logo {
+   float: right;
+}
+
 #footer {
    clear: both;
    width: 100%;
